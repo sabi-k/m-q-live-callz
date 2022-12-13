@@ -1,0 +1,266 @@
+
+@media(min-width:2560px){
+
+    .banner{
+        background-size: 60%;
+    }
+    .bnr-img{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .foot-img{
+        width: 100%;
+    }
+    .foot-desh{
+        width: 100%;
+       margin-left: 20px;
+    }
+      
+    
+
+
+}
+@media(min-width:1990px){
+
+}
+@media(min-width:1440px){
+
+}
+@media(max-width:1024px){
+    .footer_2ndrow{
+        margin: 0;
+        padding: 0;
+    }
+    .provide{
+        background-image: url(../images/footer-img.png);
+        background-repeat: no-repeat;
+        min-height: 70vh;
+        background-position:bottom 0;
+        background-position: right 0;
+        background-size: 80%;
+        position: relative;
+        z-index: 0;
+    }
+    .foot-img{
+        width: 80%;
+    
+    }
+    .footer-row button{
+        padding: 2px 3px;
+    }
+    .foot-desh button{
+        padding: 2px 3px;
+    }
+    
+
+}
+@media(max-width:768px){
+    .provide{
+        min-height: 70vh;
+        background-position:bottom 0;
+        background-position: right 0;
+        background-size: 70%;
+    }
+    .our-proc{
+        width: 26%;
+    }
+    .pro-1{
+        top: -8%;
+        right: 30%;
+    
+    }
+    .our-service{
+        width: 45%;
+        margin-left: 20px;
+    }
+    .servc-button button{
+        padding: 2px 4px;
+        margin-bottom: 20px;
+    }
+    .foot-img{
+        width: 80%;
+    
+    }
+    .footer-row button{
+        padding: 2px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .foot-desh button{
+        padding: 0;
+        font-size: 12px;
+    }
+    .footer-row h1{
+        font-size: 35px;
+        margin-bottom: 0;
+    }
+    .footer-row p{
+        font-size: 13px;
+        margin-top: 0;
+    }
+    .footer_2ndrow p{
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+    
+}
+@media(max-width:575px){
+    .nav-item .nav-link{
+        color:#000;
+    }
+    .bnr-img{
+        display: none;
+    }
+    .hero-part{
+        margin-bottom: 400px;
+    }
+    .easy-part{
+        width: 40%;
+    }
+    .roket-icon img{
+        width: 40px;
+        height: 35px;
+    }
+    .roket-icon h5{
+        font-size: 18px;
+    }
+    .hero-four{
+       display: none;
+    
+    }
+    .our-service{
+        width: 40%;
+        margin-left: 40px;
+    }
+    .footer-row h1{
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+    .footer-row p{
+        font-size: 12px;
+        margin-top: 0;
+    }
+    .footer-row button{
+        padding: 0;
+    }
+    .foot-icon p{
+        font-size: 12px;
+        margin-left: 0;
+    }
+    .foot-icon img{
+        width: 130px;
+    }
+    .foot-desh p{
+        font-size: 12px;
+
+    }
+    .foot-desh button{
+        padding:0;
+        width: 70%;
+        font-size: 10px;
+    }
+    
+    
+}
+@media(max-width:425px){
+    .container-fluid img{
+        width:120px ;
+    }
+    .hero-two{
+        width: 300px;
+    }
+    .hero-part h1{
+        font-size: 30px;
+    }
+    .hero-part p{
+        font-size: 14px;
+    }
+    .easy-part{
+        width: 70%;
+    }
+    .our-proc{
+        width: 55%;
+        margin-bottom: 15px;
+    }
+    .pro-1{
+        top: -8%;
+        right: 35%;
+    
+    }
+    .our-service{
+        margin-left: 30px;
+    }
+    .servc-button button{
+        margin-top: 10px;
+        margin-bottom: 15px;
+        padding: 4px;
+        font-size: 12px;
+    }
+    .footer-row button{
+        font-size: 12px;
+        padding: 0;
+
+    }
+    .foot-icon{
+        margin-bottom: 0;
+        padding: 0;
+    }
+    .foot-desh button{
+        padding:0;
+        font-size: 10px;
+        border-color: green;
+        color:green;
+    }
+    .foot-desh p{
+        color: green;
+    }
+    .provide{
+        background-image: none;
+    }
+
+}
+@media(max-width:375px){
+    .our-proc{
+        width: 90%;
+       margin: auto;
+    }
+    .foot-desh button{
+        padding:0;
+        font-size: 10px;
+        border-color: green;
+        color:green;
+    }
+    .foot-desh p{
+        color: green;
+    }
+    .provide{
+        background-image: none;
+    }   
+}
+@media(max-width:320px){
+    
+    .hero-part h1{
+        font-size: 40px;
+
+    }
+    .hero-part p{
+        font-size: 13px;
+    }
+    .roket-part{
+        width: 100%;
+        margin: auto;
+    }
+    .get_money{
+        width: 100%;
+        margin: auto;
+       margin-bottom: 20px;
+    }
+    .get_job{
+        width: 100%;
+        margin: auto;
+    }
+    .our-proc{
+        width: 100%;
+        margin: auto;
+    }    
+}
