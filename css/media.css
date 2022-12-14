@@ -262,5 +262,12 @@
     .our-proc{
         width: 100%;
         margin: auto;
-    }    
+    } 
+    .serv-list{
+        margin: auto;
+    }
+    .our-service ul{
+      padding: 0%;
+       
+    } 
 }
